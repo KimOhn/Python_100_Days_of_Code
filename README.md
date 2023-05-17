@@ -19,7 +19,7 @@ Udemy 100 days of code
 |29,30|PW Generator|Tkinter - GRID layout & JSON file handling (nested dictionaries)|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day29PWgenerator) 
 |31|Flash Card Study app|Recap on tkinter, error handling, and pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day31FlashCard) 
 
-##Data Analysis
+## Data Analysis
 I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
 |Day|Project|What I learned|Link to repo|
 |---|-------|--------------|----|
