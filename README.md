@@ -18,3 +18,19 @@ Udemy 100 days of code
 |27-28|Pomodoro Timer|Tkinter. Learned about *args (many positional..unlimited arguments of the tuple form) and **kwargs (keyword arguments of the dict form). Creating a class fn with optional arguments using **kwargs. Learned about setting up a global variable vs. local variable|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day27Tkinter) 
 |29,30|PW Generator|Tkinter - GRID layout & JSON file handling (nested dictionaries)|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day29PWgenerator) 
 |31|Flash Card Study app|Recap on tkinter, error handling, and pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day31FlashCard) 
+
+##Data Analysis
+I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
+|Day|Project|What I learned|Link to repo|
+|---|-------|--------------|----|
+|71|College majors and earnings|Data exploration using pandas|
+|72|Popular programming languages over time|Data visualization using Matplotlib|
+|73|LEGO sets release history|Aggregate & merge data with Pandas|
+|74|Google search data|Resampling and visualizing time-series|
+|75|Apps sales on Android app store|Plotly|
+|76|Numpy|Numpy Intro|
+|77|Films success|Seaborn and linear regression|
+|78|Nobel prize|Recap of plotly, matplotlib, and seaborn|
+|79|Handwashing reduces # deaths at birth|visualizing distributions|
+|80|Predict Boston housing price|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn| 
+|100|Predict earnings|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn| 
