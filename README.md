@@ -13,7 +13,7 @@ Udemy 100 days of code
 |22|Build	the Pong game|Apply superclass from previous lessons and modularzing the code through the use of OOP|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day22_ponggame) 
 |23|Turtle Crossing|Recap of GUI & OOP to build more confidence|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day23_turtleCrossing) 
 |24|Files, directories, and paths|learned how to open or create a new file or append to an existing file. Relative path using ./ (same folder) or ../ (1 level above) or ../../ (2 levels above)|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day24_files_directories_paths) 
-|25|US States Game|Intro to Pandas and working with a csv file|
+|25|US States Game|Intro to Pandas and working with a csv file|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Intermediate/day25_us_map_quiz.py)
 |26,30|Nato Alphabet|List and dictionary comprehension. Error handling using exceptions|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day26_dictionary_comprehension) 
 |27-28|Pomodoro Timer|Tkinter. Learned about *args (many positional..unlimited arguments of the tuple form) and **kwargs (keyword arguments of the dict form). Creating a class fn with optional arguments using **kwargs. Learned about setting up a global variable vs. local variable|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day27Tkinter) 
 |29,30|PW Generator|Tkinter - GRID layout & JSON file handling (nested dictionaries)|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day29PWgenerator) 
