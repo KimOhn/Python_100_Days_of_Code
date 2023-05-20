@@ -50,7 +50,7 @@ I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets av
 |73|LEGO sets release history|Aggregate & merge data with Pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Lego_Analysis_for_Course_(start).ipynb)
 |74|Google search data|Resampling and visualizing time-series|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Google_Trends_and_Data_Visualisation_(start).ipynb)
 |75|Apps sales on Android app store|Plotly|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Google_Play_Store_App_Analytics_(start).ipynb)
-|76|Numpy|Numpy Intro|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
+|76|Numpy|Numpy Intro|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data%20Analysis/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
 |77|Films success|Seaborn and linear regression|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Seaborn_and_Linear_Regression_(start).ipynb)
 |78|Nobel prize|Recap of plotly, matplotlib, and seaborn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Nobel_Prize_Analysis_(start).ipynb)
 |79|Handwashing reduces # deaths at birth|visualizing distributions|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data Analysis/Dr_Semmelweis_Handwashing_Discovery_(start).ipynb)
