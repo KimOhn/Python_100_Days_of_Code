@@ -1,0 +1,88 @@
+body{
+font-family: 'Montserrat', sans-serif;
+}
+#title {
+background-color: #ff4c68;
+color: white;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar{
+padding: 0 0 4.5rem;
+}
+.navbar-brand {
+color: white;
+font-size:2.5rem;
+}
+.download-button{
+ margin: 5% 3% 5% 0%
+}
+.dog-pic {
+    width: 60%;
+    transform:rotate(25deg);
+}
+#features{
+padding: 7% 15%;
+background-color:white;
+position: relative;
+}
+
+.feature-ic{
+text-align: center;
+}
+
+.icon{
+color:#ff4c68;
+size: 5rem;
+padding: 10% 10% 10%;
+}
+
+.icon:hover {
+  color: grey;
+}
+h3{
+ font-size: 1.5em;
+}
+p{
+color:grey;
+}
+
+#testimonials{
+padding:7% 15%;
+text-align:center;
+background-color:#ff4c68;
+color:white;
+}
+h2{
+font-size: 3rem;
+}
+.testimonial_img{
+width: 10%;
+border-radius: 100%;
+}
+
+#cta{
+background-color: #ff4c68;
+color:white;
+text-align: center;
+padding: 3% 5%
+}
+
+#press{
+text-align:center;
+background-color:#ff4c68;
+padding-bottom: 5%;
+
+}
+
+.press-logo{
+width:15%;
+margin:20px 50px 20px;
+}
+
+#pricing{
+text-align:center;
+
+}

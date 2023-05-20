@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog</title>
+</head>
+<body>
+  {% for animal in blog_posts["plushes"]: %}
+    <h1>{% if animal == "Squirrels" %}The squirrel's name is Carrie</h1>
+      <p1>{% else %} {{animal}} came to visit!</p1>
+      {% endif %}
+  {% endfor %}
+</body>
+</html>
