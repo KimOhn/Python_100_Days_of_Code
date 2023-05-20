@@ -22,7 +22,7 @@ Udemy 100 days of code
 ## Automation, APIs
 |Day|Project|What I learned|Link to repo|
 |---|-------|--------------|----|
-|32|Automated b-day email sending if today is my friend's b-day|date processing, pandas, smtplib|[LINK]
+|32|Automated b-day email if today is my friend's b-day|date processing, pandas, smtplib|[LINK]
 |33|Kanye Quotes App|Making API calls, working with JSON data generated as API response|[LINK]
 |34|Trivia GUI Quiz App|Making API calls, working with JSON data generated as API response|[LINK]
 |35|Weather alert using OpenWeather API|API Keys, authentication and environment variables. Twilio SMS text alert|
