@@ -23,14 +23,14 @@ Udemy 100 days of code
 I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
 |Day|Project|What I learned|Link to repo|
 |---|-------|--------------|----|
-|71|College majors and earnings|Data exploration using pandas|
-|72|Popular programming languages over time|Data visualization using Matplotlib|
-|73|LEGO sets release history|Aggregate & merge data with Pandas|
-|74|Google search data|Resampling and visualizing time-series|
-|75|Apps sales on Android app store|Plotly|
-|76|Numpy|Numpy Intro|
-|77|Films success|Seaborn and linear regression|
-|78|Nobel prize|Recap of plotly, matplotlib, and seaborn|
-|79|Handwashing reduces # deaths at birth|visualizing distributions|
-|80|Predict Boston housing price|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn| 
-|100|Predict earnings|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn| 
+|71|College majors and earnings|Data exploration using pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/college_majors_earning.ipynb) 
+|72|Popular programming languages over time|Data visualization using Matplotlib|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Programming_Languages_(start).ipynb) 
+|73|LEGO sets release history|Aggregate & merge data with Pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Lego_Analysis_for_Course_(start).ipynb)
+|74|Google search data|Resampling and visualizing time-series|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Google_Trends_and_Data_Visualisation_(start).ipynb)
+|75|Apps sales on Android app store|Plotly|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Google_Play_Store_App_Analytics_(start).ipynb)
+|76|Numpy|Numpy Intro|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Computation_with_NumPy_and_N_Dimensional_Arrays_(start).ipynb)
+|77|Films success|Seaborn and linear regression|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Seaborn_and_Linear_Regression_(start).ipynb)
+|78|Nobel prize|Recap of plotly, matplotlib, and seaborn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Nobel_Prize_Analysis_(start).ipynb)
+|79|Handwashing reduces # deaths at birth|visualizing distributions|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Dr_Semmelweis_Handwashing_Discovery_(start).ipynb)
+|80|Predict Boston housing price|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Multivariable_Regression_and_Valuation_Model_(start).ipynb)
+|100|Predict earnings|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/data_analysis/Determinants_of_Earnings_(start).ipynb) 
