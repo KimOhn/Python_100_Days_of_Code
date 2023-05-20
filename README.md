@@ -22,12 +22,12 @@ Udemy 100 days of code
 ## Automation, APIs
 |Day|Project|What I learned|Link to repo|
 |---|-------|--------------|----|
-|32|Automated b-day email if today is my friend's b-day|date processing, pandas, smtplib|[LINK]
-|33|Kanye Quotes App|Making API calls, working with JSON data generated as API response|[LINK]
-|34|Trivia GUI Quiz App|Making API calls, working with JSON data generated as API response|[LINK]
+|32|Automated b-day email if today is my friend's b-day|date processing, pandas, smtplib|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Automation%2C%20APIs/day32_email)
+|33|Kanye Quotes App|Making API calls, working with JSON data generated as API response|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Automation%2C%20APIs/day33API_calls)
+|34|Trivia GUI Quiz App|Making API calls, working with JSON data generated as API response|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Automation%2C%20APIs/day34API_Call)
 |35|Weather alert using OpenWeather API|API Keys, authentication and environment variables. Twilio SMS text alert|
-|36|Stock price tracking|API call and response handling practice|[LINK]
-|38|Get exercise stats with natural language queries & API Post requests to Google sheets with Sheety API. Environment variables|API call and environment variable set-up. I skipped the Google sheets exercise|[LINK]
+|36|Stock price tracking|API call and response handling practice|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Automation%2C%20APIs/day36API_class_stock_news)
+|38|Get exercise stats with natural language queries & API Post requests to Google sheets with Sheety API. Environment variables|API call and environment variable set-up. I skipped the Google sheets exercise|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Automation%2C%20APIs/day38workoutTracking_GoogleSheets)
 
 ## Web Foundation, Flask, Dynamic HTML, and databases using SQLAlchemy
 |Day|Project|What I learned|Link to repo|
