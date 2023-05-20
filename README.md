@@ -38,9 +38,9 @@ Udemy 100 days of code
 |54|Flask|Created my first web server|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Web%20development/day54_flask)
 |55|Flask|Passing in the parameter from the URL and decorator functions|[LINK]
 |57|Jinja|Dynamic HTML rendering using Jinja - multiline statements using for and ifelse and passing in the data and rendering as a dynamic element in the HTML template |[LINK]
-|58|TinDog website using Bootstrap|Bootstrap is a CSS framework that allows for a front-end reproducible design without writing your own CSS. I learned about a fluid container, a grid system that sums up to 12, and how to add bootstrap icons/modify button colors using a line of code! I applied all of these concepts when designing my Shinyapp|[LINK]
+|58|TinDog website using Bootstrap|Bootstrap is a CSS framework that allows for a front-end reproducible design without writing your own CSS. I learned about a fluid container, a grid system that sums up to 12, and how to add bootstrap icons/modify button colors using a line of code! I applied all of these concepts when designing my Shinyapp|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Web%20development/day58bootstrap/index.html)
 |59-61|Blog|Flask POST and GET requests and Jinja pratice to render the multiple blog posts using JSON data from an API|[LINK]
-|63|Virtual Bookshelf|Build a SQLite Databases into the Flask website via SQLAlchemy so that you would store & display the data collected through the Flask Website|[LINK]
+|63|Virtual Bookshelf|Build a SQLite Databases into the Flask website via SQLAlchemy so that you would store & display the data collected through the Flask Website|[LINK](https://github.com/KimOhn/SQLite_and_SQLAlchemy)
 
 ## Data Analysis
 I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
