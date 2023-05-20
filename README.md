@@ -35,7 +35,8 @@ Udemy 100 days of code
 |41-42|HTML|This was very helpful when I worked on a Shiny app|[LINK]
 |43-44|CSS|This was very helpful when customizing the aesthetics of my Shiny app|[LINK]
 |45-47|Webscraping using beautiful soup|Use API if the API endpoint is available!|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Web%20development/day45WebScraping_beautifulSoup)
-|54|Flask|Created my first web server|[LINK]
+|54|Flask|Created my first web server|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Web%20development/day54_flask)
+|55|Flask|Passing in the parameter from the URL and decorator functions|[LINK]
 |57|Jinja|Dynamic HTML rendering using Jinja - multiline statements using for and ifelse and passing in the data and rendering as a dynamic element in the HTML template |[LINK]
 |58|TinDog website using Bootstrap|Bootstrap is a CSS framework that allows for a front-end reproducible design without writing your own CSS. I learned about a fluid container, a grid system that sums up to 12, and how to add bootstrap icons/modify button colors using a line of code! I applied all of these concepts when designing my Shinyapp|[LINK]
 |59-61|Blog|Flask POST and GET requests and Jinja pratice to render the multiple blog posts using JSON data from an API|[LINK]
