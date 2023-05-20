@@ -19,6 +19,28 @@ Udemy 100 days of code
 |29,30|PW Generator|Tkinter - GRID layout & JSON file handling (nested dictionaries)|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day29PWgenerator) 
 |31|Flash Card Study app|Recap on tkinter, error handling, and pandas|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Intermediate/day31FlashCard) 
 
+## Automation, APIs
+|Day|Project|What I learned|Link to repo|
+|---|-------|--------------|----|
+|32|Automated b-day email sending if today is my friend's b-day|date processing, pandas, smtplib|[LINK]
+|33|Kanye Quotes App|Making API calls, working with JSON data generated as API response|[LINK]
+|34|Trivia GUI Quiz App|Making API calls, working with JSON data generated as API response|[LINK]
+|35|Weather alert using OpenWeather API|API Keys, authentication and environment variables. Twilio SMS text alert|
+|36|Stock price tracking|API call and response handling practice|[LINK]
+|38|Get exercise stats with natural language queries & API Post requests to Google sheets with Sheety API. Environment variables|API call and environment variable set-up. I skipped the Google sheets exercise|[LINK]
+
+## Web Foundation, Flask, Dynamic HTML, and databases using SQLAlchemy
+|Day|Project|What I learned|Link to repo|
+|---|-------|--------------|----|
+|41-42|HTML|This was very helpful when I worked on a Shiny app|[LINK]
+|43-44|CSS|This was very helpful when customizing the aesthetics of my Shiny app|[LINK]
+|45-47|Webscraping using beautiful soup|Use API if the API endpoint is available!|[LINK]
+|54|Flask|Created my first web server|[LINK]
+|57|Jinja|Dynamic HTML rendering using Jinja - multiline statements using for and ifelse and passing in the data and rendering as a dynamic element in the HTML template |[LINK]
+|58|TinDog website using Bootstrap|Bootstrap is a CSS framework that allows for a front-end reproducible design without writing your own CSS. I learned about a fluid container, a grid system that sums up to 12, and how to add bootstrap icons/modify button colors using a line of code! I applied all of these concepts when designing my Shinyapp|[LINK]
+|59-61|Blog|Flask POST and GET requests and Jinja pratice to render the multiple blog posts using JSON data from an API|[LINK]
+|63|Virtual Bookshelf|Build a SQLite Databases into the Flask website via SQLAlchemy so that you would store & display the data collected through the Flask Website|[LINK]
+
 ## Data Analysis
 I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
 |Day|Project|What I learned|Link to repo|
