@@ -59,7 +59,7 @@ I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets av
 |80|Predict Boston housing price|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data%20Analysis/Multivariable_Regression_and_Valuation_Model_(start).ipynb)
 |100|Predict earnings|A quick intro to how to split training and test datasets and simple linear regressions using Scikit-learn|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/blob/main/Data%20Analysis/Determinants_of_Earnings_(start).ipynb) 
 
-##Professional Portfolio projects
+## Professional Portfolio projects
 |Day|Project|What I learned|Link to repo|
 |---|-------|--------------|----|
 |81|Morse code converter|The use of dictionaries. I designed the script to switch between encrypt and decrypt functions depending on the user input|[LINK](https://github.com/KimOhn/morse_code_converter) 
