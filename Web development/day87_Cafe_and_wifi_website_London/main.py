@@ -3,7 +3,6 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, SelectField, BooleanField
 from wtforms.validators import DataRequired, URL
-#from flask_bootstrap import Bootstrap
 import os
 
 app = Flask(__name__)
@@ -13,8 +12,8 @@ app.config['SECRET_KEY'] = os.environ['SECRET_KEY']
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///cafes.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
-#Bootstrap(app)
-# db.init_app
+
+
 
 
 #Cafe TABLE Configuration
