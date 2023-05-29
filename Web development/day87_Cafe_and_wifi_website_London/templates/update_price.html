@@ -1,0 +1,25 @@
+{% include "header.html" %}
+
+    <h1>Update Price </h1>
+    <p>Update a price for {{cafe["name"]}}</p>
+    <form id = "PriceForm" action="{{url_for('update_price', cafe_id = cafe["id"])}}" method = "POST">
+                  {{ form.hidden_tag() and form.csrf_token }}
+       <p>
+            {{ form.coffee_price.label }}
+            {{ form.coffee_price(size=20)}}
+       </p>
+
+        {% if form.coffee_price.errors %}
+            <ul class="errors">
+                {% for error in form.coffee_price.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            <input type="submit" value="Add">
+        </p>
+    </form>
+
+  {% include "footer.html" %}

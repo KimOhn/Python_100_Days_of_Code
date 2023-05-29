@@ -1,0 +1,14 @@
+{% include "header.html" %}
+
+
+    <h1> Report closed cafes </h1>
+       <p>
+            {{ msg }}
+       </p>
+   {% if cafe == None: %}
+   <a href={{url_for('home')}}>Home</a>
+   {% else: %}
+   <a href={{url_for('delete', cafe_id = cafe["id"])}}>Click to delete</a> {{cafe["name"]}}
+   {% endif %}
+
+  {% include "footer.html" %}

@@ -1,0 +1,145 @@
+{% include "header.html" %}
+
+    <h1>{% block title %} Add a New Cafe {% endblock %}</h1>
+
+    <form id = "CafeForm" action="{{url_for('add')}}" method = "POST">
+         {{ form.hidden_tag() and form.csrf_token }}
+       <p>
+            {{ form.name.label }}
+            {{ form.name(size=20)}}
+       </p>
+
+        {% if form.name.errors %}
+            <ul class="errors">
+                {% for error in form.name.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.map_url.label }}
+            {{ form.map_url(size=20)}}
+        </p>
+
+
+        {% if form.map_url.errors %}
+            <ul class="errors">
+                {% for error in form.map_url.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+
+       <p>
+            {{ form.img_url.label }}
+            {{ form.img_url(size=20)}}
+        </p>
+
+
+        {% if form.img_url.errors %}
+            <ul class="errors">
+                {% for error in form.img_url.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+
+       <p>
+            {{ form.location.label }}
+            {{ form.location(size=20)}}
+        </p>
+
+
+        {% if form.location.errors %}
+            <ul class="errors">
+                {% for error in form.location.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.seats.label }}
+            {{ form.seats(size=20)}}
+        </p>
+
+
+        {% if form.seats.errors %}
+            <ul class="errors">
+                {% for error in form.seats.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.coffee_price.label }}
+            {{ form.coffee_price(size=20)}}
+        </p>
+
+
+        {% if form.coffee_price.errors %}
+            <ul class="errors">
+                {% for error in form.coffee_price.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.has_toilet() }} {{ form.has_toilet.label }}
+        </p>
+
+        {% if form.has_toilet.errors %}
+            <ul class="errors">
+                {% for error in form.has_toilet.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+         <p>
+            {{ form.has_wifi() }} {{ form.has_wifi.label }}
+        </p>
+
+        {% if form.has_wifi.errors %}
+            <ul class="errors">
+                {% for error in form.has_wifi.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.has_sockets() }} {{ form.has_sockets.label }}
+        </p>
+
+        {% if form.has_sockets.errors %}
+            <ul class="errors">
+                {% for error in form.has_sockets.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            {{ form.can_take_calls() }} {{ form.can_take_calls.label }}
+        </p>
+
+        {% if form.can_take_calls.errors %}
+            <ul class="errors">
+                {% for error in form.can_take_calls.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <p>
+            <input type="submit" value="Add">
+        </p>
+    </form>
+
+  {% include "footer.html" %}
