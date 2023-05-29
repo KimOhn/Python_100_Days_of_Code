@@ -43,6 +43,7 @@ Udemy 100 days of code
 |63|Virtual Bookshelf|Built a SQLite Databases into the Flask website via SQLAlchemy so that you would store & display the data collected through the Flask Website|[LINK](https://github.com/KimOhn/SQLite_and_SQLAlchemy)
 |66|Building my own API with RESTful routing - Cafe & Wifi data|Learned to build my own REST API using SQLite database, Flask, SQLAlchemy, and RESTful routing. Learned to use various http verbs such as GET, POST, PATCH, and DELETE. Create a API documentation using Postman.|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Web%20development/day66_REST_API)
 
+
 ## Data Analysis
 I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets available online to be very helpful.
 |Day|Project|What I learned|Link to repo|
@@ -64,3 +65,4 @@ I use Tidyverse heavily at work, and I found the dplyr and pandas cheatsheets av
 |---|-------|--------------|----|
 |81|Morse code converter|The use of dictionaries. I designed the script to switch between encrypt and decrypt functions depending on the user input|[LINK](https://github.com/KimOhn/morse_code_converter) 
 |83|Tic Tac Toe game|Applied the OOP concept|[LINK](https://github.com/KimOhn/tic-tac-toe)
+|87|Building my own Cafe & Wifi website|Learned to build my own website using Bootstrap, SQLite database, Flask, SQLAlchemy, Jinja and http requests. The end user can browse by the image of each cafe and see what amenities are available for each cafe (i.e. wifi, outlets, toilet, # seats). User can also contribute to the database by by submitting a Flask form to report a new cafe, update new coffee price, and delete from DB by clicking on a button|[LINK](https://github.com/KimOhn/Python_100_Days_of_Code/tree/main/Web%20development/day87_Cafe_and_wifi_website_London)
